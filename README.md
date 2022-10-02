@@ -2,11 +2,11 @@
 <h3 align="center">I am a bioinformatician and machine learning engineer in the making! 👨‍💻</h3>
 
 <br>
-
+<div>
 <p>&nbsp;<img align="left" style="display: inline;color:red;" src="https://github-readme-stats.vercel.app/api?username=mainpyp&show_icons=true&locale=en" alt="mainpyp" /></p>
 
 <p><img align="left" style="display:inline;" src="https://github-readme-streak-stats.herokuapp.com/?user=mainpyp&" alt="mainpyp" /></p>
-
+</div>
 
 <h3 align="center">Connect with me on Linkedin</h3>
 <p align="center">
